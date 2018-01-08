@@ -7,3 +7,7 @@ p{
 	font-size: 90px;
 	color:rgba(40,80,10,1);
 }
+
+p{
+  font-family: monospace;
+}
